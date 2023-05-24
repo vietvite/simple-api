@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7vzQdk2Bw1TO+oqDVf0jCZSEMqa9gu0COGTYTjcaW2Hl9HZKyc/8ySya4r10AfCyip9yyVKYrTnaWnUH9pgqyg==",
+  "success": true,
+  "projectFilePath": "/Users/zxc/test/SimpleApi/SimpleApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/zxc/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/zxc/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/zxc/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/zxc/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/zxc/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/zxc/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
